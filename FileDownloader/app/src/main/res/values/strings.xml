@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">File Downloader</string>
+    <string name="notification_title">Download has been started</string>
+    <string name="notification_des">We are downloading your file</string>
+    <string name="notification_done">File Downloaded</string>
+
+</resources>

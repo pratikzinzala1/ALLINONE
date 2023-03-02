@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+   android:duration="@integer/material_motion_duration_medium_1"
+   android:interpolator="@string/material_motion_easing_standard">
+ <translate
+     android:fromYDelta="20%p"
+     android:toYDelta="0"/>
+ <alpha
+     android:fromAlpha="0.0"
+     android:toAlpha="1.0"/>
+</set>
+
